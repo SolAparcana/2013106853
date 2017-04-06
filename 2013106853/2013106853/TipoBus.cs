@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace _2013106853
 {
-    class TipoBus
+    enum TipoBus
     {
+        Public, Privado, NoDefinido
+
     }
 }

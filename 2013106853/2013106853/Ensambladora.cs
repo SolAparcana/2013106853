@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace _2013106853
 {
-    class Embalsamadora
+    class Ensambladora
     {
         List<Carro> _Carro;
 
         List<Automovil> _Automovil;
 		List<Bus> _Bus;
-        public Enmbalsamadora()
+        public Ensambladora()
         {
             _Carro = new List<Carro>();
             _Automovil = new List<Automovil>();
@@ -37,7 +37,6 @@ namespace _2013106853
         public bool FinalizarPersonalizacion()
         {
            
-
             return false;
         }
 

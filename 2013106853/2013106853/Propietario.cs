@@ -8,13 +8,13 @@ namespace _2013106853
 {
     class Propietario
     {
-        string dni {get;}
-        string Nombres {get;}
-        string Apellidos {get;}
-        string LincenciaConducir {get;}
+        string dni { get; set; }
+        string Nombres { get; set; }
+        string Apellidos { get; set; }
+        string LincenciaConducir { get; set; }
  
     }
 }
         
     
-}
+

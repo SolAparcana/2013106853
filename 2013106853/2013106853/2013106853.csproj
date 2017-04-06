@@ -48,7 +48,7 @@
     <Compile Include="Automovil.cs" />
     <Compile Include="Carro.cs" />
     <Compile Include="Cinturon.cs" />
-    <Compile Include="Embalsamadora.cs" />
+    <Compile Include="Ensambladora.cs" />
     <Compile Include="Llanta.cs" />
     <Compile Include="Bus.cs" />
     <Compile Include="Parabrisas.cs" />

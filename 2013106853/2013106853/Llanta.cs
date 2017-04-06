@@ -8,7 +8,7 @@ namespace _2013106853
 {
     class Llanta
     {
-        String numeroSerie; 
+        String numSerie; 
         public void tipollanta(){
 
         } 

@@ -15,15 +15,9 @@ namespace _2013106853
         {
             _numLlantas = numLlantas;
             _numAsientos = numAsientos;
-            return _numLlantas; _numAsientos;
+           
         }
 
-        string Volante(string volante);
-        string Parabrisas(string parabrisas);
-        string Propietario(string propietario);
-        string TipoCarro(string tipoCarro);
-        public int Llantas { get { return _numLlantas; } }
-
-        public int Asientos { get { return _numAsientos; } }
+       
     }
 }

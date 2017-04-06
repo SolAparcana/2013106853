@@ -10,7 +10,7 @@ namespace _2013106853
     {
         int _numAsientos;
         private TipoBus _TipoBus;
-        public Automovil(int numAsientos)
+        public Bus(int numAsientos)
         {
             _numAsientos= numAsientos;
         }

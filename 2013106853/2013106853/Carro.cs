@@ -9,9 +9,9 @@ namespace _2013106853
     class Carro
     {
 
-        string NumSerieMotor { get; }
+        string NumSerieMotor { get; set; }
 
-        string NumSerieChasis { get; }
+        string NumSerieChasis { get; set;  }
         
     }
 }

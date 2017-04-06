@@ -8,17 +8,6 @@ namespace _2013106853
 {
     class Asiento
     {
-        Cinturon _cinturon;
-        public String NumSerie { get; set; }
-
-        public Asiento(String _numSerie)
-        {
-            _cinturon = new Cinturon();
-            NumSerie = _numSerie;
-        }
-        public Asiento()
-        {
-
-        }
+        string numSerie { get; set; }
     }
 }
