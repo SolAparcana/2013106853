@@ -6,12 +6,8 @@ using System.Threading.Tasks;
 
 namespace _2013106853
 {
-    class Program
+    enum TipoAuto
     {
-        static void Main(string[] args)
-        {
-            
-
-        }
+        Sedan, Pickup, Coupe, HatchBack, Nodefinido 
     }
 }

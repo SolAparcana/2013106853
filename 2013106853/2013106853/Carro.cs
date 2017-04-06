@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace _2013106853
 {
-    class Program
+    class Carro
     {
-        static void Main(string[] args)
-        {
-            
 
-        }
+        string NumSerieMotor { get; }
+
+        string NumSerieChasis { get; }
+        
     }
 }

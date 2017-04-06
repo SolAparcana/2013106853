@@ -6,12 +6,9 @@ using System.Threading.Tasks;
 
 namespace _2013106853
 {
-    class Program
+    enum tipoCarro
     {
-        static void Main(string[] args)
-        {
-            
-
-        }
+        Automovil, 
+        Bus
     }
 }

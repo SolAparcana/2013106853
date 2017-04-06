@@ -8,5 +8,40 @@ namespace _2013106853
 {
     class Embalsamadora
     {
+        List<Carro> _Carro;
+
+        List<Automovil> _Automovil;
+		List<Bus> _Bus;
+        public Enmbalsamadora()
+        {
+            _Carro = new List<Carro>();
+            _Automovil = new List<Automovil>();
+			_Bus = new List<Bus>();
+        }
+
+        public void Agregar(Carro carro)
+        {
+          
+        }
+
+        public void Eliminar(Carro carro)
+        {
+            
+        }
+
+        public bool IniciarPersonalizacion()
+        {
+            return false;
+        }
+
+        public bool FinalizarPersonalizacion()
+        {
+           
+
+            return false;
+        }
+
+
+
     }
 }

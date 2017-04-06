@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace _2013106853
 {
-    class Program
+    class TipoBus
     {
-        static void Main(string[] args)
-        {
-            
-
-        }
     }
 }

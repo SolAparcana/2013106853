@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace _2013106853
 {
-    class Program
+    class Llanta
     {
-        static void Main(string[] args)
-        {
-            
+        String numeroSerie; 
+        public void tipollanta(){
 
-        }
+        } 
+
     }
 }
