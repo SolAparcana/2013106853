@@ -44,10 +44,10 @@ personalizados. El reporte sólo debe contener el tipo de auto y el numero de ch
         {
             if (_Carros.Count == 6)
                 return;
-            volante.NumSerie="volante-"; //me tiene que salir esta vaina amor, anda come algo mas
-            parabrisas.NumSerie = "parabrisas-";
+          //  volante.NumSerie="volante-"; //me tiene que salir esta vaina amor, anda come algo mas
+           // parabrisas.NumSerie = "parabrisas-";
            // int numAsientos=0;
-            var tipoCarro = TipoCarro.automovil;
+          //  var tipoCarro = TipoCarro.automovil;
 
            // TipoAuto.Coupe;
 
@@ -63,5 +63,5 @@ personalizados. El reporte sólo debe contener el tipo de auto y el numero de ch
             
                     
         }
-
+    }
 }
