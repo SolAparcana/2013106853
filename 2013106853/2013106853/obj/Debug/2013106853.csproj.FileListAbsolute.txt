@@ -1,6 +1,0 @@
-C:\Users\Clase\Documents\Visual Studio 2013\Projects\2013106853\2013106853\2013106853\bin\Debug\2013106853.exe.config
-C:\Users\Clase\Documents\Visual Studio 2013\Projects\2013106853\2013106853\2013106853\obj\Debug\2013106853.csprojResolveAssemblyReference.cache
-C:\Users\Clase\Documents\Visual Studio 2013\Projects\2013106853\2013106853\2013106853\bin\Debug\2013106853.exe
-C:\Users\Clase\Documents\Visual Studio 2013\Projects\2013106853\2013106853\2013106853\bin\Debug\2013106853.pdb
-C:\Users\Clase\Documents\Visual Studio 2013\Projects\2013106853\2013106853\2013106853\obj\Debug\2013106853.exe
-C:\Users\Clase\Documents\Visual Studio 2013\Projects\2013106853\2013106853\2013106853\obj\Debug\2013106853.pdb
